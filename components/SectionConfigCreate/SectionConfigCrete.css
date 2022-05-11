@@ -1,0 +1,12 @@
+/* 3-29-22 section Config Create */
+.sampleButtonScc{
+    justify-content: center;
+    align-items: center;
+    padding: 11px 47px;
+    width: 178px;
+    height: 46px;
+    background: #FAFAFA;
+    border: 2px solid #017EFA;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
